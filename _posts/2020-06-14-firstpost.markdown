@@ -17,7 +17,7 @@ As I develop `POI`, I have to think in two directions: the integration with `MOI
 After some initial barriers, I feel much more confident writing code on a brooader aspect, as I learned a lot from my mentors.
 I would already like to thamk them for several valuable lessons. Couldn't be more excited for the next months under their supervision.
 
-The next steps are to finish all possible pais of functions and sets that are used in `MOI` and to start documentation that fits the community guidelines.
+The next steps are to finish all possible pairs of functions and sets that are used in `MOI` and to start documentation that fits the community guidelines.
 
 
 
