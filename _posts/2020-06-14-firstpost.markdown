@@ -15,7 +15,7 @@ The most challenging task that I faced during these first two weeks was to adapt
 As I develop `POI`, I have to think in two directions: the integration with `MOI`, which can be thought as a lower level optimization modelling tool, and the integration with `JuMP.jl`, which would be a higher level one.
 
 After some initial barriers, I feel much more confident writing code on a brooader aspect, as I learned a lot from my mentors.
-I would already like to thamk them for several valuable lessons. Couldn't be more excited for the next months under their supervision.
+I would already like to thank them for several valuable lessons. Couldn't be more excited for the next months under their supervision.
 
 The next steps are to finish all possible pairs of functions and sets that are used in `MOI` and to start documentation that fits the community guidelines.
 
@@ -23,3 +23,4 @@ The next steps are to finish all possible pairs of functions and sets that are u
 
 
 
+w
