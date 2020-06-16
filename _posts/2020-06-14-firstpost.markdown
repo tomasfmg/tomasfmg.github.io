@@ -18,9 +18,3 @@ After some initial barriers, I feel much more confident writing code on a brooad
 I would already like to thank them for several valuable lessons. Couldn't be more excited for the next months under their supervision.
 
 The next steps are to finish all possible pairs of functions and sets that are used in `MOI` and to start documentation that fits the community guidelines.
-
-
-
-
-
-w
