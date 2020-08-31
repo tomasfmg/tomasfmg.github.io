@@ -13,4 +13,4 @@ Regarding the package development, several tests were added, and the code covera
 
 One thing to notice is how time flies during this program. At the end of the month there will be the final evaluation and we should submit our code and docs. It has been an amazing experience, and I will definitely keep involved with it the next months to continue improving the package.
 
-Now, the [documentation](https://tomasfmg.github.io/ParametricOptInterface.jl/dev/) is more complete, worth taking a look to see what is possible to be done now!
+Now, the [documentation](http://jump.dev/ParametricOptInterface.jl/dev/) is more complete, worth taking a look to see what is possible to be done now!
